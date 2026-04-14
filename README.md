@@ -5,7 +5,7 @@
 
 ### Quem quiser atualizar o código tem que fazer o login dentro do Font-Awesome e pegar o teu código do Kit Free que aparece dentro do perfil da tua conta de usuário.  https://fontawesome.com/
 
-### Dentro do Font-Awesome, na sua conta de usuário, tem que clicar em configurações, e mudar a versão velha para a versão do Font-Awesome nova que você vai utilizar, e salva essa troca de versão, vai aparecer um aviso que ele demora uns minutos para funcionar.  
+### Dentro do Font-Awesome, na sua conta de usuário, tem que clicar em configurações, e mudar a versão velha para a versão do Font-Awesome nova que você vai utilizar, tem que selecionar se quer utilizar a versão nova do Font-Awesome como CSS ou como JavaScript, e salva essa troca de versão, vai aparecer um aviso que ele demora uns minutos para funcionar.  
 
 ### E não pode utilizar dentro do código a versão velha do Font-Awesome, junto com uma versão mais nova do Font-Awesome, se isso ocorrer pode haver um conflito de versão.
 
