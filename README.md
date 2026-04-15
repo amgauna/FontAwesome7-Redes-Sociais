@@ -9,4 +9,4 @@
 
 ### E não pode utilizar dentro do código a versão velha do Font-Awesome, junto com uma versão mais nova do Font-Awesome, se isso ocorrer pode haver um conflito de versão.
 
-
+### O código estava tudo funcionando horas atrás, depois o Font-Awesome desligou a imagem de alguns icones dele. Eu acho que ele quer que eu pague para usar tudo.
